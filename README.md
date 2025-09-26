@@ -68,6 +68,7 @@ python char2world.py
 ## Installation (one line)
 > [!Tip]
 > - if you want to setup **Char2World** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
+> if you found any problems ⚠️ in running this tool, then first of all give permission to **char2world.py** file and run this file. then any Error came in run time then remove 
 
 - one line commands past on your Termux and just press hit enter.
 
