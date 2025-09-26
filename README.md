@@ -65,11 +65,11 @@ python char2world.py
 ```
 - On first launch, It'll install the dependencies and that's it is installed.
 
-## Installation (one line)
+## Error handling
 > [!Tip]
-> - if you want to setup **Char2World** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
-> if you found any problems ⚠️ in running this tool, then first of all give permission to **char2world.py** file and run this file. then any Error came in run time then open this file in code editor and remove 2 and 4 line code only. and again run this tool. I sure this tool will be run.
+> if you found any error in running this tool, then first of all give permission to **char2world.py** file and run this file. then any Error came in run time then open this file in code editor and remove 2 and 4 line code only. and again run this tool. I sure this tool will be run.
 
+## Installation (one line)
 - one line commands past on your Termux and just press hit enter.
 
 ```
