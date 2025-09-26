@@ -21,7 +21,14 @@
 - **automatic process**
 - with letest version
 
+## requirement.txt (file)
+- installation commnads for tool requirements
+```
+pip install -r requirment.txt
 
+os==
+termcolor==
+```
 
 ## Installation 
 - just update and upgrade your Termux
