@@ -20,6 +20,7 @@
 - less time taken
 - **automatic process**
 - with letest version
+- funny tools
 
 ## requirement.txt (file)
 - installation commnads for tool requirements
