@@ -208,7 +208,7 @@ countries = [
 ]
 
 print("\n")
-name_input = input(colored("[+] Enter Your Name : ", "cyan")).upper()
+name_input = input(colored("[+] Enter Any Charecter : ", "cyan")).upper()
 print("")
 
 name_length = len(name_input)
