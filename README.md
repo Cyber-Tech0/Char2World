@@ -26,8 +26,8 @@
 ```
 pip install -r requirment.txt
 
-os==
-termcolor==
+os==3.13.7
+termcolor==3.1.0
 ```
 
 ## Installation 
