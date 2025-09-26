@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/tool-Char2World-red" />
 
 </p>
-<p align="center"><b>A beginners friendly, funny tools, find all countries name on input character s</b></p>
+<p align="center"><b>A beginners friendly, funny tools, find all countries name on input characters</b></p>
 
 
 > [!Warning]
