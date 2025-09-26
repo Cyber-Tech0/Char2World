@@ -6,11 +6,11 @@
   <img src="https://img.shields.io/badge/tool-Char2World-red" />
 
 </p>
-<p align="center"><b>A beginners friendly, funny algebraic calculator</b></p>
+<p align="center"><b>A beginners friendly, funny tools, find all countries name on input character s</b></p>
 
 
 > [!Warning]
-> This script, char2world.py, begins its execution with the command **os.system("clear")**, which is designed to clear the entire contents of your terminal or console window before the logo and prompts are displayed. This means that any previous output, commands, or text in your current terminal session will be permanently erased when the script runs. Furthermore, please be aware that the script relies on the termcolor Python library to properly display the colorful logo and output. If you encounter errors, you may need to install this dependency by running the command pip install termcolor in your terminal.
+> This tool made for only Educational pourpse dont miss use this tool. This script, char2world.py, begins its execution with the command **os.system("clear")**, which is designed to clear the entire contents of your terminal or console window before the logo and prompts are displayed. This means that any previous output, commands, or text in your current terminal session will be permanently erased when the script runs. Furthermore, please be aware that the script relies on the termcolor Python library to properly display the colorful logo and output. If you encounter errors, you may need to install this dependency by running the command pip install termcolor in your terminal.
 
 
 
