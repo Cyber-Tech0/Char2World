@@ -78,8 +78,6 @@ apt update && apt upgrade -y && pkg install git -y && pkg install python -y && g
 
 <p></p>
 
-<p align="center"><b>Testing on Terminal (on termux CLI)</b></p>
-
 ### Algo Tool Interface
 <img height="700px" width="600px" src="assets/user_interface.png"></img>
 
