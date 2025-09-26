@@ -10,7 +10,7 @@
 
 
 > [!Warning]
-> This tool is intended for legal security testing and educational purposes only. Unauthorized use of Algo Tool or its tools is prohibited and may be illegal. users should always be cautious when running shell scripts. A shell script can contain powerful commands that may delete files, modify system settings, or expose sensitive data if written with harmful instructions. Before executing any script, especially one downloaded from the internet, it is important to open and read its content to ensure it only performs safe actions. Running unknown or unverified shell programs without checking can put the system at risk.
+> This script, char2world.py, begins its execution with the command os.system("clear"), which is designed to clear the entire contents of your terminal or console window before the logo and prompts are displayed. This means that any previous output, commands, or text in your current terminal session will be permanently erased when the script runs. Furthermore, please be aware that the script relies on the termcolor Python library to properly display the colorful logo and output. If you encounter errors, you may need to install this dependency by running the command pip install termcolor in your terminal.
 
 
 
